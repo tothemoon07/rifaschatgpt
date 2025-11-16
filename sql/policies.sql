@@ -1,0 +1,4 @@
+-- policies.sql (ejemplo, activarlos con cuidado)
+-- ALTER TABLE raffles ENABLE ROW LEVEL SECURITY;
+-- ALTER TABLE tickets ENABLE ROW LEVEL SECURITY;
+-- -- Add policies as needed
